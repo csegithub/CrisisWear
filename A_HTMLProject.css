@@ -1,0 +1,75 @@
+.center {
+ text-align: center;
+}
+
+.headtron {
+ padding: 20px;
+ margin: 20px;
+ color: #000;
+ background-color: #70a5f9;
+ border-radius: 7px;
+}
+ 
+ .bluetron {
+ padding: 10px;
+ margin: 10px;
+ color: #000;
+ background-color: #afcbf7;
+ border-radius: 7px;
+}
+
+ .opentron {
+ padding: 25px;
+ margin: 25px;
+ color: #000;
+ background-color: #fff;
+ border-radius: 7px;
+}
+ 
+.graytron {
+ padding: 20px;
+ margin: 20px;
+ color: #000;
+ background-color: #eee;
+ border-radius: 7px;
+}
+
+.tab {
+ margin-left: 33px;
+
+}
+.litab {
+ margin-left: 45px;
+}
+
+.inline {
+ display: inline;
+}
+
+.sleek {
+ background-color: #70a5f9;
+ border-radius: 7px;
+}
+
+h1 {
+ font-size: 100%;
+}
+
+img {
+ border-radius: 7px;
+ padding: 4px;
+}
+
+header {
+ font-weight: bold;
+}
+p {
+ padding: 6px;
+}
+
+#slogan {
+ margin-top: 30px;
+ margin-bottom: 30px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
